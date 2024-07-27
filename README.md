@@ -1,8 +1,5 @@
 # pizzaSalesSQL
 
-
-Sure, here's how you can structure the README file with a question followed by the corresponding SQL query:
-
 Pizza Sales Analysis Project
 This project involves analyzing pizza sales data that was provided in an Excel file and imported into MySQL. Below are some key questions answered by the SQL queries used in this analysis.
 
